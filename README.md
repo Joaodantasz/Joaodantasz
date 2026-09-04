@@ -1,136 +1,138 @@
-# 👾 João Gabriel Dantas
-
-```bash
-┌──(joao㉿github)-[~/dev]
-└─$ whoami
-
-João Gabriel Dantas
-> Desenvolvedor em formação
-> Explorando Web, Back-End, Mobile & Banco de Dados
-> Sempre aprendendo. Sempre construindo.
-```
-
 <div align="center">
 
-# `JOÃO GABRIEL DANTAS`
+# 👋 João Gabriel Dantas
 
-### `> Desenvolvedor em formação_`
+### `Desenvolvedor em formação • Programação • Tecnologia`
 
-**Transformando ideias em código.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo+programa%C3%A7%C3%A3o;Construindo+projetos;Sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## `01 // SOBRE MIM`
+## 💻 Sobre mim
 
 ```javascript
 const joao = {
     nome: "João Gabriel Dantas",
-    status: "Desenvolvedor em formação",
+    perfil: "Estudante e desenvolvedor em formação",
 
-    interesses: [
-        "Desenvolvimento Web",
-        "Back-End",
-        "Mobile",
-        "Banco de Dados"
+    estudando: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "MySQL"
     ],
 
-    filosofia: "Aprender fazendo.",
+    explorando: [
+        "React",
+        "Node.js",
+        "Django",
+        "Flutter",
+        "Kotlin",
+        "Java"
+    ],
 
-    objetivo: "Evoluir e transformar ideias em projetos reais."
+    objetivo: "Evoluir através de projetos práticos 🚀"
 };
 ```
 
-Gosto de aprender **na prática**, criando projetos e experimentando tecnologias diferentes.
+Sou estudante e desenvolvedor em formação, apaixonado por **tecnologia e programação**.
 
-Meu GitHub é onde registro essa jornada: projetos, estudos, experimentos e tudo que vou construindo enquanto evoluo na programação.
+Gosto de aprender colocando a mão na massa, criando projetos e testando novas tecnologias para entender, na prática, como as coisas funcionam.
 
----
-
-## `02 // STACK`
-
-### `> FRONT-END`
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3">
-</p>
-
-### `> BACK-END`
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933">
-<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB">
-<img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=0FA36B">
-</p>
-
-### `> DATABASE`
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1">
-</p>
-
-### `> MOBILE`
-
-<p>
-<img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B">
-<img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
-</p>
+Atualmente estou desenvolvendo meus conhecimentos em **Front-End, Back-End, Mobile e Banco de Dados**, buscando evoluir a cada projeto.
 
 ---
 
-## `03 // CURRENTLY LEARNING`
+## 🚀 Tecnologias
+
+### 🎨 Front-End
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+</p>
+
+### ⚙️ Back-End
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=0FA36B" />
+</p>
+
+### 🗄️ Banco de Dados
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+</p>
+
+### 📱 Mobile
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+</p>
+
+---
+
+## 📚 Atualmente estudando
 
 ```text
-[████████████████░░░░] HTML / CSS
-[██████████████░░░░░░] JavaScript
-[███████████░░░░░░░░░] MySQL
-[█████████░░░░░░░░░░░] Python
-[███████░░░░░░░░░░░░░] Node.js
+HTML        ████████████████████
+CSS         █████████████████░░░
+JavaScript  ██████████████░░░░░░
+MySQL       █████████████░░░░░░░
+Python      ███████████░░░░░░░░░
 ```
 
-> Os níveis são apenas uma representação visual do meu momento de estudos.
+> Essa representação é apenas visual e não representa nível profissional de conhecimento.
 
 ---
 
-## `04 // PROJECTS`
+## 🛠️ Projetos
+
+A maior parte da minha evolução acontece através de projetos.
+
+Aqui no GitHub compartilho projetos, estudos e experimentos que desenvolvo enquanto aprendo novas tecnologias.
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   🚧  BUILDING...                            │
-│                                              │
-│   Ideias → Código → Projetos → Experiência  │
-│                                              │
-└──────────────────────────────────────────────┘
+IDEIA
+  ↓
+CÓDIGO
+  ↓
+PROBLEMA
+  ↓
+SOLUÇÃO
+  ↓
+APRENDIZADO
+  ↓
+EVOLUÇÃO 🚀
 ```
-
-Aqui você encontra projetos desenvolvidos durante minha jornada de aprendizado.
-
-Cada projeto é uma oportunidade de experimentar, resolver problemas e colocar novos conhecimentos em prática.
 
 ---
 
-## `05 // GITHUB`
+## 📊 GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaodantasz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaodantasz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaodantasz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaodantasz&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## `06 // CONTRIBUTIONS`
+## 🐍 Contributions
 
 <div align="center">
 
@@ -144,37 +146,28 @@ Cada projeto é uma oportunidade de experimentar, resolver problemas e colocar n
 
 ---
 
-## `07 // CONNECT`
+## 📫 Contato
 
-```bash
-$ ./connect.sh
-
-[+] GitHub   → Joaodantasz
-[+] LinkedIn → João Gabriel Dantas
-
-[✓] Connection established.
-```
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Joaodantasz">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-dantas-6b048b412/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
 ```text
-> BUILDING THE FUTURE, ONE LINE OF CODE AT A TIME.
+> BUILD • LEARN • CREATE • EVOLVE
 ```
 
-### `🚀 Keep coding. Keep learning. Keep evolving.`
+### 🚀 Sempre aprendendo, sempre construindo.
 
 </div>
