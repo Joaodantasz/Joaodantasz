@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Olá! Eu sou João Gabriel
 
-<!--
-**Joaodantasz/Joaodantasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em aprendizado, apaixonado por tecnologia e programação.
 
-Here are some ideas to get you started:
+Atualmente estou estudando e desenvolvendo projetos para aprimorar minhas habilidades em desenvolvimento Web, Banco de Dados e Programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sobre mim
+📚 Sempre aprendendo novas tecnologias
+💻 Criando projetos para praticar programação
+🗄️ Estudando bancos de dados e SQL
+🌐 Desenvolvendo páginas e sistemas Web
+🎯 Buscando evoluir cada vez mais como desenvolvedor
+🛠️ Tecnologias
+
+<div> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </div>
+
+🚧 Estou constantemente criando novos projetos para colocar em prática o que estou aprendendo.
+
+Confira meus repositórios para acompanhar minha evolução! ⭐
+
+📊 GitHub
+
+
+
+⭐ Obrigado por visitar meu perfil!
