@@ -143,8 +143,9 @@ IDEIA > CÓDIGO > PROBLEMA > SOLUÇÃO > APRENDIZADO > EVOLUÇÃO 🚀
 <div align="center">
 
 > BUILD • LEARN • CREATE • EVOLVE
-```
+``
 
+<div align="center">
 ### 🚀 Sempre aprendendo, sempre construindo.
 
 </div>
