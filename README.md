@@ -1,10 +1,14 @@
 <div align="center">
 
-# 👋 João Gabriel Dantas
+![João Gabriel Dantas](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050505,35:111827,65:1E3A8A,85:2563EB,100:64748B&text=JOÃO%20GABRIEL%20DANTAS&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=DESENVOLVIMENTO%20%7C%20TECNOLOGIA%20%7C%20CRIATIVIDADE&descSize=18&descAlignY=60&animation=fadeIn)
 
-### `Desenvolvedor em formação • Programação • Tecnologia`
+[![Apresentação animada](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=60A5FA&center=true&vCenter=true&width=900&height=70&lines=JO%C3%83O+GABRIEL+DANTAS;DESENVOLVEDOR+EM+FORMA%C3%87%C3%83O;CONSTRUINDO+PROJETOS+COM+TECNOLOGIA;APRENDENDO%2C+CRIANDO+E+EVOLUINDO;IDEIAS+QUE+SE+TRANSFORMAM+EM+C%C3%93DIGO)](https://github.com/Joaodantasz)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo+programa%C3%A7%C3%A3o;Construindo+projetos;Sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+![Visitas](https://komarev.com/ghpvc/?username=Joaodantasz&style=for-the-badge&color=2563EB&labelColor=050505&label=VISITAS)
+
+![Seguidores](https://img.shields.io/github/followers/Joaodantasz?style=for-the-badge&logo=github&logoColor=FFFFFF&color=475569&labelColor=050505&label=SEGUIDORES)
+
+![Estrelas](https://img.shields.io/github/stars/Joaodantasz?style=for-the-badge&logo=github&logoColor=FFFFFF&color=1E3A8A&labelColor=050505&label=ESTRELAS)
 
 </div>
 
@@ -104,7 +108,7 @@ A maior parte da minha evolução acontece através de projetos.
 
 Aqui no GitHub compartilho projetos, estudos e experimentos que desenvolvo enquanto aprendo novas tecnologias.
 
-```text
+`text
 IDEIA
   ↓
 CÓDIGO
@@ -116,21 +120,10 @@ SOLUÇÃO
 APRENDIZADO
   ↓
 EVOLUÇÃO 🚀
-```
+``
 
----
 
-## 📊 GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaodantasz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaodantasz&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🐍 Contributions
 
@@ -164,7 +157,7 @@ EVOLUÇÃO 🚀
 
 <div align="center">
 
-```text
+``text
 > BUILD • LEARN • CREATE • EVOLVE
 ```
 
