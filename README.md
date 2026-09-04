@@ -10,7 +10,7 @@ Atualmente, estou desenvolvendo meus conhecimentos em desenvolvimento Front-End,
 
 Também gosto de explorar diferentes linguagens e frameworks, entender como as aplicações funcionam por trás dos códigos e transformar ideias em projetos reais. 💡
 
-## 🚀 Tecnologias que estou estudando
+## 🚀 Tecnologias que estou estudando/vou estudar
 
 ### 🎨 Front-End
 
