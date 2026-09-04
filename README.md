@@ -4,14 +4,13 @@
 
 [![Apresentação animada](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=60A5FA&center=true&vCenter=true&width=900&height=70&lines=JO%C3%83O+GABRIEL+DANTAS;DESENVOLVEDOR+EM+FORMA%C3%87%C3%83O;CONSTRUINDO+PROJETOS+COM+TECNOLOGIA;APRENDENDO%2C+CRIANDO+E+EVOLUINDO;IDEIAS+QUE+SE+TRANSFORMAM+EM+C%C3%93DIGO)](https://github.com/Joaodantasz)
 
-![Visitas](https://komarev.com/ghpvc/?username=Joaodantasz&style=for-the-badge&color=2563EB&labelColor=050505&label=VISITAS)
-
-![Seguidores](https://img.shields.io/github/followers/Joaodantasz?style=for-the-badge&logo=github&logoColor=FFFFFF&color=475569&labelColor=050505&label=SEGUIDORES)
-
-![Estrelas](https://img.shields.io/github/stars/Joaodantasz?style=for-the-badge&logo=github&logoColor=FFFFFF&color=1E3A8A&labelColor=050505&label=ESTRELAS)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Joaodantasz&style=for-the-badge&color=2563EB&labelColor=050505&label=VISITAS">
+  <img src="https://img.shields.io/github/followers/Joaodantasz?style=for-the-badge&logo=github&logoColor=FFFFFF&color=475569&labelColor=050505&label=SEGUIDORES">
+  <img src="https://img.shields.io/github/stars/Joaodantasz?style=for-the-badge&logo=github&logoColor=FFFFFF&color=1E3A8A&labelColor=050505&label=ESTRELAS">
+</p>
 
 </div>
-
 ---
 
 ## 💻 Sobre mim
@@ -157,7 +156,6 @@ EVOLUÇÃO 🚀
 
 <div align="center">
 
-``text
 > BUILD • LEARN • CREATE • EVOLVE
 ```
 
