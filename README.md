@@ -1,50 +1,180 @@
-# 👋 Olá! Eu sou João Gabriel Dantas
+# 👾 João Gabriel Dantas
 
-💻 Sobre mim
+```bash
+┌──(joao㉿github)-[~/dev]
+└─$ whoami
 
-Sou estudante e desenvolvedor em formação, apaixonado por tecnologia e programação. 🚀
+João Gabriel Dantas
+> Desenvolvedor em formação
+> Explorando Web, Back-End, Mobile & Banco de Dados
+> Sempre aprendendo. Sempre construindo.
+```
 
-Gosto de aprender colocando a mão na massa, criando projetos e testando novas tecnologias para entender na prática como cada ferramenta funciona.
+<div align="center">
 
-Atualmente, estou desenvolvendo meus conhecimentos em desenvolvimento Front-End, Back-End, Mobile e bancos de dados, buscando evoluir um pouco a cada projeto.
+# `JOÃO GABRIEL DANTAS`
 
-Também gosto de explorar diferentes linguagens e frameworks, entender como as aplicações funcionam por trás dos códigos e transformar ideias em projetos reais. 💡
+### `> Desenvolvedor em formação_`
 
-## 🚀 Tecnologias que estou estudando/vou estudar
+**Transformando ideias em código.**
 
-### 🎨 Front-End
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+---
 
-### ⚙️ Back-End & Banco de Dados
+## `01 // SOBRE MIM`
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+```javascript
+const joao = {
+    nome: "João Gabriel Dantas",
+    status: "Desenvolvedor em formação",
 
-### 📱 Mobile
+    interesses: [
+        "Desenvolvimento Web",
+        "Back-End",
+        "Mobile",
+        "Banco de Dados"
+    ],
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square\&logo=kotlin\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=java\&logoColor=white)
+    filosofia: "Aprender fazendo.",
 
-## 📫 Como me encontrar
+    objetivo: "Evoluir e transformar ideias em projetos reais."
+};
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-dantas-6b048b412/)
+Gosto de aprender **na prática**, criando projetos e experimentando tecnologias diferentes.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Joaodantasz)
+Meu GitHub é onde registro essa jornada: projetos, estudos, experimentos e tudo que vou construindo enquanto evoluo na programação.
 
+---
 
+## `02 // STACK`
+
+### `> FRONT-END`
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3">
+</p>
+
+### `> BACK-END`
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933">
+<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=0FA36B">
+</p>
+
+### `> DATABASE`
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1">
+</p>
+
+### `> MOBILE`
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B">
+<img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
+</p>
+
+---
+
+## `03 // CURRENTLY LEARNING`
+
+```text
+[████████████████░░░░] HTML / CSS
+[██████████████░░░░░░] JavaScript
+[███████████░░░░░░░░░] MySQL
+[█████████░░░░░░░░░░░] Python
+[███████░░░░░░░░░░░░░] Node.js
+```
+
+> Os níveis são apenas uma representação visual do meu momento de estudos.
+
+---
+
+## `04 // PROJECTS`
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   🚧  BUILDING...                            │
+│                                              │
+│   Ideias → Código → Projetos → Experiência  │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+Aqui você encontra projetos desenvolvidos durante minha jornada de aprendizado.
+
+Cada projeto é uma oportunidade de experimentar, resolver problemas e colocar novos conhecimentos em prática.
+
+---
+
+## `05 // GITHUB`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaodantasz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaodantasz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## `06 // CONTRIBUTIONS`
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaodantasz/Joaodantasz/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joaodantasz/Joaodantasz/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Joaodantasz/Joaodantasz/output/snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Joaodantasz/Joaodantasz/output/snake.svg">
 </picture>
+
+</div>
+
+---
+
+## `07 // CONNECT`
+
+```bash
+$ ./connect.sh
+
+[+] GitHub   → Joaodantasz
+[+] LinkedIn → João Gabriel Dantas
+
+[✓] Connection established.
+```
+
+<p align="center">
+
+<a href="https://github.com/Joaodantasz">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
+</a>
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-dantas-6b048b412/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+```text
+> BUILDING THE FUTURE, ONE LINE OF CODE AT A TIME.
+```
+
+### `🚀 Keep coding. Keep learning. Keep evolving.`
+
+</div>
