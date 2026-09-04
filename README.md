@@ -107,20 +107,7 @@ A maior parte da minha evolução acontece através de projetos.
 
 Aqui no GitHub compartilho projetos, estudos e experimentos que desenvolvo enquanto aprendo novas tecnologias.
 
-IDEIA
-  ↓
-CÓDIGO
-  ↓
-PROBLEMA
-  ↓
-SOLUÇÃO
-  ↓
-APRENDIZADO
-  ↓
-EVOLUÇÃO 🚀
-``
-
-
+IDEIA > CÓDIGO > PROBLEMA > SOLUÇÃO > APRENDIZADO > EVOLUÇÃO 🚀
 
 
 ## 🐍 Contributions
