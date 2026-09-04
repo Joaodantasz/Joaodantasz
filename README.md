@@ -5,11 +5,11 @@
 Gosto de aprender através de projetos práticos e estou construindo meu conhecimento aos poucos, explorando desenvolvimento web e bancos de dados.
 
 
-\## 🎯 Tecnologias que estou aprendendo
+🎯 Tecnologias que estou aprendendo
 
 
 
-\### Front-End
+Front-End
 
 !\[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 
@@ -23,7 +23,7 @@ Gosto de aprender através de projetos práticos e estou construindo meu conheci
 
 
 
-\### Back-End
+Back-End
 
 !\[Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 
@@ -37,7 +37,7 @@ Gosto de aprender através de projetos práticos e estou construindo meu conheci
 
 
 
-\### Mobile
+Mobile
 
 !\[Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
 
@@ -49,7 +49,7 @@ Gosto de aprender através de projetos práticos e estou construindo meu conheci
 
 
 
-\## 📫 Como me encontrar
+📫 Como me encontrar
 
 
 
