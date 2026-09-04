@@ -1,6 +1,14 @@
 # 👋 Olá! Eu sou João Gabriel Dantas
 
-💻 Desenvolvedor em formação, aprendendo através de projetos práticos e explorando **desenvolvimento web, back-end, mobile e bancos de dados**.
+💻 Sobre mim
+
+Sou estudante e desenvolvedor em formação, apaixonado por tecnologia e programação. 🚀
+
+Gosto de aprender colocando a mão na massa, criando projetos e testando novas tecnologias para entender na prática como cada ferramenta funciona.
+
+Atualmente, estou desenvolvendo meus conhecimentos em desenvolvimento Front-End, Back-End, Mobile e bancos de dados, buscando evoluir um pouco a cada projeto.
+
+Também gosto de explorar diferentes linguagens e frameworks, entender como as aplicações funcionam por trás dos códigos e transformar ideias em projetos reais. 💡
 
 ## 🚀 Tecnologias que estou estudando
 
