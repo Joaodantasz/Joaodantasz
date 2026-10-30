@@ -29,11 +29,7 @@ const joao = {
     ],
 
     explorando: [
-        "React",
         "Node.js",
-        "Django",
-        "Flutter",
-        "Kotlin",
         "Java"
     ],
 
